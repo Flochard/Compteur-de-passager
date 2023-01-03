@@ -2,7 +2,7 @@ body {
 	background-image: url("yarn.jpeg");
 	background-size: cover;
 	font-family: "Open Sans", "Helvetica Neue", sans-serif;
-    text-align: center;
+	text-align: center;
 	height: 100vh;
 }
 
@@ -22,7 +22,7 @@ h1 {
 h2 {
 	font-size: 50px;
 	margin-top: 0;
-    margin-bottom: 20px;
+	margin-bottom: 20px;
 }
 
 button {
